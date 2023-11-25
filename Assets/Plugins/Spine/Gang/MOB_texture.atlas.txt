@@ -1,0 +1,6 @@
+MOB_texture.png
+size:520,833
+filter:Linear,Linear
+pma:true
+暴徒
+bounds:2,2,516,829

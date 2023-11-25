@@ -1,0 +1,17 @@
+drone.png
+size:1071,629
+filter:Linear,Linear
+pma:true
+LD_P
+bounds:457,322,318,305
+RD_P
+bounds:457,322,318,305
+LU_P
+bounds:457,2,318,305
+rotate:90
+RU_P
+bounds:764,2,318,305
+rotate:90
+body
+bounds:2,7,620,453
+rotate:90

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &384730820746435723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5241614357833456342}
+  - component: {fileID: 797164124844475745}
+  m_Layer: 0
+  m_Name: SoundList
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5241614357833456342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384730820746435723}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1436.7438, y: 518.68335, z: -11.222431}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &797164124844475745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384730820746435723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca836500e55ee249aed2dd5e9181680, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 2318546758794916055, guid: 3d632b3e7b84e054bbae654e5fecbe87, type: 3}
+  sideStep:
+    file: {fileID: 8300000, guid: d3c8070a95fbe4146b68e5a32fb3a817, type: 3}
+    volume: 1
+  acceleration:
+    file: {fileID: 8300000, guid: 8dedf2a74715d3d41ad7c6f062b9c1ba, type: 3}
+    volume: 1
+  playerJump:
+    file: {fileID: 8300000, guid: 0687c21a9b46c544f8ec68c2919acfe4, type: 3}
+    volume: 1
+  playerSlow:
+    file: {fileID: 8300000, guid: d14b5731acc8bf64f8462f9c8562fc17, type: 3}
+    volume: 1
+  Button:
+    file: {fileID: 8300000, guid: ad0c8f3e81f5e734e888668bf6c907d6, type: 3}
+    volume: 1
+  Select:
+    file: {fileID: 8300000, guid: 714e128f564f28b409d69fb7ea60d449, type: 3}
+    volume: 1
+  OnWeaponSelectScreen:
+    file: {fileID: 8300000, guid: 8961c119799331d4cb4d37bce1370899, type: 3}
+    volume: 1
+  OnTotalDamage: []
+  wallDeployment:
+    file: {fileID: 8300000, guid: 29fbe8b795fc4414b8401977a9d5f275, type: 3}
+    volume: 1
+  wallBreak:
+    file: {fileID: 8300000, guid: c0878ad4c4ba88f49ac1dff099a5e52a, type: 3}
+    volume: 1
+  wallCollision:
+    file: {fileID: 8300000, guid: 18bd3b2c21dad2b43a21684b21a6b093, type: 3}
+    volume: 1
+  wallCaveat:
+    file: {fileID: 8300000, guid: 282494c561806aa4ba2f4acbc4b0dc47, type: 3}
+    volume: 1
+  no2:
+    file: {fileID: 8300000, guid: 26fe286429e2ae0479bb5f988f2f5ee3, type: 3}
+    volume: 1
+  cutin:
+    file: {fileID: 8300000, guid: c538dde444a122d448d0340895c631d5, type: 3}
+    volume: 1
+  EMP:
+    file: {fileID: 8300000, guid: 3378606a1c7ab8a4eb60756fbc03b364, type: 3}
+    volume: 1
+  Laser:
+    file: {fileID: 8300000, guid: f9c70b7ab452ca54ba41bebd2f616a8e, type: 3}
+    volume: 1

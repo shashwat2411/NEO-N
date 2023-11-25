@@ -1,0 +1,6 @@
+POLICE_texture.png
+size:542,826
+filter:Linear,Linear
+pma:true
+警察
+bounds:2,2,538,822

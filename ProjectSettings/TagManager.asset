@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Bullet
+  - PlayerWeapon
+  - DropWeapon
+  - PlayerRange
+  - Obstacle
+  - NearCheck
+  - PlayerTarget
+  - Path
+  - EnemyAttack
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - NearCheck
+  - Obstacle
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bike
+    uniqueID: 3113144163
+    locked: 0
+  - name: human
+    uniqueID: 2202396429
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 626495693
+    locked: 0
